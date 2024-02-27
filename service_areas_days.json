@@ -1,0 +1,238 @@
+[
+  {
+    "city": "ALGONQUIN",
+    "days_of_the_weeks": "Tuesday Thursday"
+  },
+  {
+    "city": "ARLINGTON HEIGHTS",
+    "days_of_the_weeks": "Tuesday"
+  },
+  {
+    "city": "BARRINGTON",
+    "days_of_the_weeks": "Tuesday"
+  },
+  {
+    "city": "BARTLETT",
+    "days_of_the_weeks": "Thursday"
+  },
+  {
+    "city": "BLOOMINGDALE",
+    "days_of_the_weeks": "Thursday"
+  },
+  {
+    "city": "BUFFALO GROVE",
+    "days_of_the_weeks": "Tuesday"
+  },
+  {
+    "city": "BURLINGTON",
+    "days_of_the_weeks": "Wednesday"
+  },
+  {
+    "city": "CARPENTERSVILLE",
+    "days_of_the_weeks": "Tuesday Thursday"
+  },
+  {
+    "city": "CARY",
+    "days_of_the_weeks": "Tuesday Wednesday Thursday"
+  },
+  {
+    "city": "CRYSTAL LAKE",
+    "days_of_the_weeks": "Monday Tuesday Wednesday Thursday"
+  },
+  {
+    "city": "DEER PARK",
+    "days_of_the_weeks": "Tuesday"
+  },
+  {
+    "city": "DUNDEE",
+    "days_of_the_weeks": "Tuesday Thursday"
+  },
+  {
+    "city": "ELGIN",
+    "days_of_the_weeks": "Thursday"
+  },
+  {
+    "city": "ELK GROVE VILLAGE",
+    "days_of_the_weeks": "Tuesday"
+  },
+  {
+    "city": "FOX LAKE",
+    "days_of_the_weeks": "Monday"
+  },
+  {
+    "city": "FOX RIVER GROVE",
+    "days_of_the_weeks": "Tuesday"
+  },
+  {
+    "city": "GILBERTS",
+    "days_of_the_weeks": "Wednesday"
+  },
+  {
+    "city": "GRAYSLAKE",
+    "days_of_the_weeks": "Monday"
+  },
+  {
+    "city": "HAMPSHIRE",
+    "days_of_the_weeks": "Wednesday"
+  },
+  {
+    "city": "HANOVER PARK",
+    "days_of_the_weeks": "Thursday"
+  },
+  {
+    "city": "HAWTHORN WOODS",
+    "days_of_the_weeks": "Tuesday"
+  },
+  {
+    "city": "HOFFMAN ESTATES",
+    "days_of_the_weeks": "Tuesday Thursday"
+  },
+  {
+    "city": "HUNTLEY",
+    "days_of_the_weeks": "Wednesday"
+  },
+  {
+    "city": "INGLESIDE",
+    "days_of_the_weeks": "Monday"
+  },
+  {
+    "city": "INVERNESS",
+    "days_of_the_weeks": "Tuesday"
+  },
+  {
+    "city": "ISLAND LAKE",
+    "days_of_the_weeks": "Monday"
+  },
+  {
+    "city": "ITASCA",
+    "days_of_the_weeks": "Tuesday"
+  },
+  {
+    "city": "JOHNSBURG",
+    "days_of_the_weeks": "Monday"
+  },
+  {
+    "city": "LAKE IN THE HILLS",
+    "days_of_the_weeks": "Tuesday Wednesday Thursday"
+  },
+  {
+    "city": "LAKE VILLA",
+    "days_of_the_weeks": "Monday"
+  },
+  {
+    "city": "LAKE ZURICH",
+    "days_of_the_weeks": "Tuesday"
+  },
+  {
+    "city": "LIBERTYVILLE",
+    "days_of_the_weeks": "Monday Tuesday"
+  },
+  {
+    "city": "LINCOLNSHIRE",
+    "days_of_the_weeks": "Tuesday"
+  },
+  {
+    "city": "LONG GROVE",
+    "days_of_the_weeks": "Tuesday"
+  },
+  {
+    "city": "MARENGO",
+    "days_of_the_weeks": "Wednesday"
+  },
+  {
+    "city": "MCCULLOM LAKE",
+    "days_of_the_weeks": "Monday"
+  },
+  {
+    "city": "MCHENRY",
+    "days_of_the_weeks": "Monday"
+  },
+  {
+    "city": "MEDINAH",
+    "days_of_the_weeks": "Tuesday"
+  },
+  {
+    "city": "MOUNT PROSPECT",
+    "days_of_the_weeks": "Tuesday"
+  },
+  {
+    "city": "MUNDELEIN",
+    "days_of_the_weeks": "Monday"
+  },
+  {
+    "city": "PALATINE",
+    "days_of_the_weeks": "Tuesday"
+  },
+  {
+    "city": "PROSPECT HEIGHTS",
+    "days_of_the_weeks": "Tuesday"
+  },
+  {
+    "city": "RINGWOOD",
+    "days_of_the_weeks": "Monday"
+  },
+  {
+    "city": "ROLLING MEADOWS",
+    "days_of_the_weeks": "Thursday"
+  },
+  {
+    "city": "ROSELLE",
+    "days_of_the_weeks": "Thursday"
+  },
+  {
+    "city": "ROUND LAKE",
+    "days_of_the_weeks": "Monday"
+  },
+  {
+    "city": "SCHAUMBURG",
+    "days_of_the_weeks": "Thursday"
+  },
+  {
+    "city": "SLEEPY HOLLOW",
+    "days_of_the_weeks": "Tuesday Thursday"
+  },
+  {
+    "city": "SOUTH ELGIN",
+    "days_of_the_weeks": "Thursday"
+  },
+  {
+    "city": "SPRING GROVE",
+    "days_of_the_weeks": "Monday"
+  },
+  {
+    "city": "STREAMWOOD",
+    "days_of_the_weeks": "Thursday"
+  },
+  {
+    "city": "UNION",
+    "days_of_the_weeks": "Wednesday"
+  },
+  {
+    "city": "VERNON HILLS",
+    "days_of_the_weeks": "Tuesday"
+  },
+  {
+    "city": "VILLAGE OF LAKEWOOD",
+    "days_of_the_weeks": "Monday Wednesday"
+  },
+  {
+    "city": "WAUCONDA",
+    "days_of_the_weeks": "Monday"
+  },
+  {
+    "city": "WAYNE",
+    "days_of_the_weeks": "Thursday"
+  },
+  {
+    "city": "WHEELING",
+    "days_of_the_weeks": "Tuesday"
+  },
+  {
+    "city": "WONDER LAKE",
+    "days_of_the_weeks": "Monday"
+  },
+  {
+    "city": "WOODSTOCK",
+    "days_of_the_weeks": "Monday"
+  }
+]
