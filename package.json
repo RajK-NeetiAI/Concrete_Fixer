@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "functions-framework --target=dialogflowWebhook"
+    "start": "functions-framework --target=dialogflowWebhook",
+    "debug": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
