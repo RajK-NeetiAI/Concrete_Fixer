@@ -1,3 +1,5 @@
+const fs = require("fs");
+
 const axios = require('axios');
 
 const { MAPS_API_KEY } = require('./constant');
@@ -79,8 +81,14 @@ const getErrorMessage = () => {
     );
 };
 
+const readJsonFile = (filePath) => {
+    const jsonData = JSON.parse(fs.readFileSync(filePath));
+    return jsonData;
+};
+
 module.exports = {
     formatResponseForDialogflow,
     getErrorMessage,
-    verifyGeoLocation
+    verifyGeoLocation,
+    readJsonFile
 };
